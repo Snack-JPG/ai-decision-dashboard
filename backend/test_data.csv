@@ -1,0 +1,7 @@
+date,department,metric_value,category,notes
+2024-01-01,A&E,150,urgent,Normal day
+2024-01-02,A&E,180,urgent,Busy day
+2024-01-03,A&E,120,urgent,Quiet day
+2024-01-04,Outpatients,300,routine,Scheduled appointments
+2024-01-05,Outpatients,280,routine,Slightly fewer
+2024-01-06,A&E,220,urgent,Weekend spike
